@@ -42,17 +42,19 @@ Open Street Map
 netconvert --osm-files map.osm -o map.net.xml
 ```
 * Check the network in netedit.exe
-<div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/figure/figure2.PNG" width="600"/></div>
+<div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/figure/figure2.PNG" width="600"/></div>    
 </br> 
-*  Next step is set the routing. It need to the randomTrips.py (in tools)
+
+* Next step is set the routing. It need to the randomTrips.py (in tools)
 * Open your terminal, cd in the document(contains the files above, copy the .py into the document), then and get a .rou.xml
 ```
 python randomTrips.py -n map.net.xml -r map.rou.xml -e 100 -l
 ```
 * change the input in .sumocfg first, 
-<div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/figure/figure5.PNG" width="600"/></div>
-</br> 
-* **Open sumo-gui.exe, import a .sumocfg, (change the simulation time) ,then begin **
+<div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/figure/figure5.PNG" width="600"/></div>   
+</br>    
+
+* Open sumo-gui.exe, import a .sumocfg, (change the simulation time) ,then begin 
 <div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/figure/figure4.PNG" width="600"/></div>
 </br>
 <div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/figure/figure6.PNG" width="600"/></div>
