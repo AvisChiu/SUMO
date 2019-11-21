@@ -19,7 +19,7 @@ https://sumo.dlr.de/docs/Installing.html
 
 Simple Example
 ---
-*  https://sumo.dlr.de/docs/Tutorials/quick_start.html
+* https://sumo.dlr.de/docs/Tutorials/quick_start.html
 * Follow the file, and obtain the traffic flow running in Sumo:
 <div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/figure/simple_example.PNG" width="600"/></div>
 * Note: the bin in package cover some files, for routing or network structure. 
