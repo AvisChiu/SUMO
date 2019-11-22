@@ -7,7 +7,7 @@ Python connect Sumo
 Environment Variable
 ---
 * ADD in the path (C:\Users\AvisChiu\Desktop\sumo-1.3.1\bin), also create a new variable "SUMO_HOME" (add C:\Users\AvisChiu\Desktop\sumo-1.3.1) 
-* The different between is "\bin"
+* The different between them is the "\bin"
 * This is a necessary step before the using python
 </br>   
 <div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/connect%20python/figure/figure1.PNG" width="400"/></div>
