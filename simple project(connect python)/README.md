@@ -38,3 +38,12 @@ Change the code in runner.py
 <div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/simple%20project(connect%20python)/figure/figure6.PNG" width="600"/></div>
 </br>    
 
+
+Change the code in runner.py
+---
+* Run the runner.py in terminal
+* Check the simulation time in .sumocfg   
+<div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/simple%20project(connect%20python)/figure/figure7.PNG" width="600"/></div>
+</br>    
+<div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/simple%20project(connect%20python)/figure/figure1.PNG" width="600"/></div>
+</br>    
