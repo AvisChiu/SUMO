@@ -39,7 +39,7 @@ Change the code in runner.py
 </br>    
 
 
-Change the code in runner.py
+Run the runner.py
 ---
 * Run the runner.py in terminal
 * Check the simulation time in .sumocfg   
