@@ -2,7 +2,10 @@ Python connect Sumo (Using own files)
 ---
 * Target: obtain the traffic simulation in own map
 * It is easy to get the map (.som) from OpenStreetMap
-* Just covert into .net.xml
+* Just covert into .net.xml, turn on terminal and using the command below
+```
+netconvert --osm-files map.osm -o map.net.xml
+```
 * The change the rou.xml , runner.py and .sumocfg.
 * Follow the steps and won't be too hard.
 
