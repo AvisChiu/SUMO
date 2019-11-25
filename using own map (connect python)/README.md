@@ -6,7 +6,7 @@ Python connect Sumo (Using own files)
 ```
 netconvert --osm-files map.osm -o map.net.xml
 ```
-* The change the rou.xml , runner.py and .sumocfg.
+* The change the code of rou.xml , runner.py and .sumocfg.
 * Follow the steps and won't be too hard.
 
 </br>
