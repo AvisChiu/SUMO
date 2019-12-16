@@ -30,3 +30,6 @@ Warning: Vehicle '15' performs emergency stop at the end of lane '222682222#3_2'
 <div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/create_demand_random/figure/figure1.PNG" width="600"/></div>
 </br> 
 
+總結
+---
+* 會卡死其實與整張地圖的汽車總容量有關
