@@ -21,7 +21,7 @@ duarouter -n MySUMONet.net.xml -f ex_FLOW.flow.xml -o ex_ROU.rou.xml
 ```
 * 編寫 sumocfg 檔案（無非是設定 input 的地圖和路由， output 的一些檔案， 模擬的時間...）
 </br>
-<div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/create_demand_with_flow/figure/figure2.png" width="600"/></div>
+<div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/create_demand_with_flow/figure/figure2.png" width="200", height="400"/></div>
 </br>   
 
 * 用 sumo-GUI 開啓，看模擬的結果
