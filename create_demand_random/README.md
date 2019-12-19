@@ -33,3 +33,4 @@ Warning: Vehicle '15' performs emergency stop at the end of lane '222682222#3_2'
 總結
 ---
 * 會卡死其實與整張地圖的汽車總容量有關
+* (12/19) 問題解決， 按 F7 合并相鄰節點即可。
