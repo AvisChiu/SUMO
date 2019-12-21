@@ -47,3 +47,8 @@ python duaIterate.py -n bigmac.net.xml -t trips.trips.xml
 </br>
 <div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/create_demand_duarouter/figure/figure3.PNG" width="600"/></div>
 </br> 
+
+注意事項
+---
+* random 不需要 trip， 之後要自己編輯sumocfg
+* duarouter 要準備 trip， 之後自動生成 sumocfg
