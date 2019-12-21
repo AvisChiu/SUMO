@@ -1,0 +1,8 @@
+> Executing step 0
+>> Running router on trips.trips.xml
+>>> Begin time: 2019-12-21 20:11:01.249000
+>>> End time: 2019-12-21 20:11:03.598000
+>>> Duration: 0:00:02.349000
+<<
+>> Running simulation
+>>> Begin time: 2019-12-21 20:11:03.600000

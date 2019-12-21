@@ -1,0 +1,16 @@
+Loading net-file from 'C:\Users\AvisChiu\Desktop\sumo-1.4.0\bin\document\real work\bigmac_duarouter\bigmac.net.xml' ... done (88ms).
+Loading additional-files from 'C:\Users\AvisChiu\Desktop\sumo-1.4.0\bin\document\real work\bigmac_duarouter\dua_dump_000.add.xml' ... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Warning: Vehicle '16345' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=6571.00.
+Simulation ended at time: 7694.00
+Reason: All vehicles have left the simulation.
+Performance: 
+ Duration: 84098ms
+ Real time factor: 91.4885
+ UPS: 61763.989631
+Vehicles: 
+ Inserted: 18001
+ Running: 0
+ Waiting: 0
+
