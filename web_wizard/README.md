@@ -18,3 +18,8 @@ python osmWebWizard.py
 </br>
 <div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/web_wizard/figure2.PNG" width="600"/></div>
 </br> 
+
+
+結論
+---
+* 雖然簡單方便，但沒有辦法生成一個完整的一天的交通流量
