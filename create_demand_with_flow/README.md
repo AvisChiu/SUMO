@@ -1,4 +1,4 @@
-Add traffic demand by using "flow"
+Add traffic demand by using "flow" -- using DUA( 均衡算法 )
 ---
 * 官方定義：
 * Using trip definitions
