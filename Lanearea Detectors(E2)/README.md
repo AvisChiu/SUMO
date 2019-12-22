@@ -47,4 +47,21 @@ NOTE
 | --- | --- | --- |
 | begin	 | (simulation) seconds	 | The first time step the values were collected in |
 |  end	 | (simulation) seconds	 | The last time step + DELTA_T the values were collected in (may be equal to begin) |
+|  id	| id	|The id of the detector (needed if several detectors share an output file) |
+| sampledSeconds	| s	| The total time all vehicles which contributed data were on the detector. this may be fractional even if the time step is one second, because the times when the vehicle enters and leaves are interpolated. |
+| nVehEntered	 |#	|The number of vehicles that entered the detector in the corresponding interval.|
+| nVehLeft	| #	| The number of vehicles that left the detector in the corresponding interval.|
+| nVehSeen	| # | 	The number of vehicles that were on the detector in the corresponding interval (were "seen" by the detector).|
+| meanSpeed	|m/s	|The mean velocity over all collected data samples.|
+| meanTimeLoss	| s	|The average time loss per vehicle in the corresponding interval. The total time loss can be obtained by multiplying this value with nVehSeen.|
+|meanOccupancy	|%	|The percentage (0-100%) of the detector's place that was occupied by vehicles, summed up for each time step and averaged by the interval duration.|
+|maxOccupancy	|%|	The maximum percentage (0-100%) of the detector's place that was occupied by vehicles during the interval.|
+|meanMaxJamLengthInVehicles|	#vehicles|	The length of the longest jams recognized during each step, averaged over the interval duration. In vehicles that have contributed to these jams.|
+|meanMaxJamLengthInMeters	| m	| As prior, but in meters (see notes)| 
+|maxJamLengthInVehicles	|#vehicles|	The length of the longest jam recognized during the interval duration. In vehicles that have contributed to this jams.|
+|maxJamLengthInMeters	|m|	As prior, but in meters (see notes)|
+|jamLengthInVehiclesSum	|#vehicles	|The sum of all lengths of all jams recognized during the interval. In vehicles that have contributed to these jams.|
+|jamLengthInMetersSum	|m	|As prior, but in meters (see notes)|
+|
+|
 
