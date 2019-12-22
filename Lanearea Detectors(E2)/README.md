@@ -62,6 +62,17 @@ NOTE
 |maxJamLengthInMeters	|m|	As prior, but in meters (see notes)|
 |jamLengthInVehiclesSum	|#vehicles	|The sum of all lengths of all jams recognized during the interval. In vehicles that have contributed to these jams.|
 |jamLengthInMetersSum	|m	|As prior, but in meters (see notes)|
+|meanHaltingDuration	|s|	The mean halting duration of vehicles that entered the area and are still inside or have left the area within the reported interval.|
+|maxHaltingDuration	|s|	The maximum halting duration of vehicles that entered the area and are still inside or have left the area within the reported interval.|
+|haltingDurationSum	|s|	The sum of all halting durations of vehicles that entered the area and are still inside or have left the area within the reported interval.|
+|meanIntervalHaltingDuration	|s|	The mean halting duration of vehicles that entered the area and are still inside or have left the area within the reported interval, counted from the interval's begin.|
+|maxIntervalHaltingDuration	|s	|The maximum halting duration of vehicles that entered the area and are still inside or have left the area within the reported interval, counted from the interval's begin.|
+|intervalHaltingDurationSum|	s	|The sum of all halting durations of vehicles that entered the area and are still inside or have left the area within the reported interval, counted from the interval's begin.|
+|startedHalts	|#	|The number of started halts. Please note that during an interval a vehicle may stop halting and enter a new halting state.|
+|meanVehicleNumber|	#|	The mean number of vehicles that were on the detector (averaged over the interval duration).|
+|maxVehicleNumber|	#	|The maximum number of vehicles that were on the detector area during the interval.|
+
+|
 |
 |
 
