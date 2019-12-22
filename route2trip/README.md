@@ -14,3 +14,7 @@ route2trips.py
 </br> 
 
 * 使用 sumo-gui 跑模擬的時候，在 sumocfg 裏面就變成 input trips 檔案， 而不是 xml
+
+NOTE
+---
+* 還是需要用 random 來生成 rou.xml
