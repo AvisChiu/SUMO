@@ -43,7 +43,8 @@ NOTE
 
 補充
 ---
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Name | Type | Description |
+| --- | --- | --- |
+| begin	 | (simulation) seconds	 | The first time step the values were collected in |
+|  end	 | (simulation) seconds	 | The last time step + DELTA_T the values were collected in (may be equal to begin) |
+
