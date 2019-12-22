@@ -12,7 +12,7 @@ net.xml
 python generateTLSE2Detectors.py --help
 ```
 </br>
-<div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/Induction%20Loops%20Detectors(E1)/figure/figure1.PNG" width="600"/></div>
+<div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/Induction%20Loops%20Detectors(E1)/figure/figure1.PNG" width="400"/></div>
 </br> 
 
 編輯 sumocfg
