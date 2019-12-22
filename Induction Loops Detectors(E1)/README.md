@@ -29,7 +29,7 @@ python generateTLSE2Detectors.py --help
 * 可以對比每一次跑完模擬後生成的檔案，都是一樣的，因此不用擔心隨機性。
 
 </br>
-<div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/Induction%20Loops%20Detectors(E1)/figure/figure2.PNG" width="600"/></div>
+<div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/Induction%20Loops%20Detectors(E1)/figure/figure2.PNG" /></div>
 </br> 
 
 NOTE
