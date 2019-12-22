@@ -72,7 +72,4 @@ NOTE
 |meanVehicleNumber|	#|	The mean number of vehicles that were on the detector (averaged over the interval duration).|
 |maxVehicleNumber|	#	|The maximum number of vehicles that were on the detector area during the interval.|
 
-|
-|
-|
 
