@@ -31,6 +31,7 @@ python generateTLSE2Detectors.py --help
 結果
 ---
 * 查看 e2output.xml， 有各種信息，各欄位資料還需要確認。
+*  e2output.xml 檔案較大
 </br>
 <div align=center> <img src="https://github.com/AvisChiu/SUMO/blob/master/Lanearea%20Detectors(E2)/figure/figure3.PNG" width="600"/></div>
 </br> 
