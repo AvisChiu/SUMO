@@ -42,6 +42,8 @@ python randomTrips.py -n bigmac.net.xml -r bigmac.rou0.xml -b 68401 -e 86400 -p 
 </br> 
 
 
+日期：1/15
+---
 
 
 
