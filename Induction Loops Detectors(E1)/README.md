@@ -8,6 +8,7 @@ net.xml
 ```
 * 先把 net.xml 拉到 tools/output 目錄底下，打開 cmd
 * 執行完之後會 output 一個 e1.add.xml
+* (.net.xml 要添加紅綠燈～！！！！！！！！)
 ```
 python generateTLSE2Detectors.py --help
 ```
